@@ -3,6 +3,7 @@
 This repository is dedicated to ports of Ur-Quan Masters (Star Control 2) to BSD operating systems. Ur-Quan Masters is a classic free sci-fi game which is available open-source!
 
 More info about Ur-Quan Masters:
+
 https://downloads.tomsguide.com/The-Ur-Quan-Masters-,0301-45257.html
 https://www.majorgeeks.com/files/details/the_ur_quan_masters.html
 
