@@ -10,10 +10,13 @@ https://www.majorgeeks.com/files/details/the_ur_quan_masters.html
 **BSD**:
 
 UQM BSD ports trees:
+
 FreeBSD: games/uqm
+
 https://www.freebsd.org/ports/games.html
 
 OpenBSD: games/uqm
+
 http://sc2.sourceforge.net/downloads.php
 
 **Source code**:
