@@ -1,4 +1,4 @@
-**Ur Quan Masters FreeBSD Port**
+**Ur Quan Masters on BSD**
 
 This reposiroty is dedicated to ports of Ur-Quan Masters (Star Control 2) to BSD operating systems. Ur-Quan Masters is a classic free sci-fi game which is available open-source!
 
@@ -10,6 +10,7 @@ https://www.majorgeeks.com/files/details/the_ur_quan_masters.html
 UQM BSD ports trees:
 FreeBSD: games/uqm
 https://www.freebsd.org/ports/games.html
+
 OpenBSD: games/uqm
 http://sc2.sourceforge.net/downloads.php
 
